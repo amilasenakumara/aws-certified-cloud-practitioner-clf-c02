@@ -193,5 +193,4 @@ D. Data redundancy across Availability Zones
 
 ---
 
-# 📂 Suggested File Name
-`aws-clf-c02-intro-to-cloud-summary.md`
+
